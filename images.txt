@@ -1,4 +1,5 @@
 #支持私库
 opengrok/docker
+instructure/libreoffice
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
