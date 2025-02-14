@@ -2,5 +2,6 @@
 opengrok/docker
 instructure/libreoffice:6.3
 libreoffice/online:latest
+savatar101/omniparse:0.1
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
